@@ -1,1 +1,1 @@
-# Carcasa de React con typescript eslint y jest
+# App de React de colas con sockets, typescript, eslint y jest
